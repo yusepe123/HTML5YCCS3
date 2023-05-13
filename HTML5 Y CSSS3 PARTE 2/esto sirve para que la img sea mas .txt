@@ -1,0 +1,42 @@
+esto sirve para que la img sea mas organizada
+
+<h1>
+    <img src="">
+</h1>
+------------------------------------
+sirve Para cambiar la posición del punto inicial donde se encuentra el elemento.
+absolute
+
+-----------------------------------
+margin auto para cualquier pantalla
+
+----------------------------------------------------------
+
+<link rel="stylesheet" href="reset.css">
+<link rel="stylesheet" href="productos.css">
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+padding El elemento aumenta su tamaño.
+
+-------------------------------------------------------
+border: 3px solid #000000;
+
+Un borde sólido, con 3 pixeles de ancho, entre el padding y el margin.
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Con la propiedad border-radius, podemos diseñar la esquina redondeada de los elementos.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Algunas pseudo-clases CSS
+hover, cuando el usuario pasa el cursor sobre el elemento.
+active, cuando un elemento está siendo activado por el usuario.
+A cambiar el color del texto y/o del borde de un elemento, cuando el usuario pase el cursor sobre el mismo.
+A cambiar el color del borde de un elemento, cuando el mismo está siendo activado por el usuario.
+------------------------------------------------------------------------------------------------
+Con el valor url en el background del elemento.
+
+
+¡Alternativa Correcta! En el CSS, cuando hacemos referencia a la dirección de una imagen, usamos el valor url.
